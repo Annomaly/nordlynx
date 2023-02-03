@@ -30,6 +30,7 @@ PreUp = ${PRE_UP}
 PostUp = ${POST_UP}
 PreDown = ${PRE_DOWN}
 PostDown = ${POST_DOWN}
+MTU = ${MTU}
 
 [Peer]
 Endpoint = ${END_POINT}
